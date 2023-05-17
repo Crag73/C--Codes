@@ -1,0 +1,6 @@
+/* Matrix operaions 
+addition
+subtraction
+multiplication
+transpose 
+print lower and upper triangular */
