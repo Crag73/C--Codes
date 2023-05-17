@@ -17,9 +17,9 @@ int main(){
         else{
             cout << b/a;
         }}
-    catch(int x){
-            cout << "Array index can not be negative";
-        }
+    
+            cout << "Array index can negative"; //changed
+        
     catch (const char* msg){
         cout << msg;
     }
